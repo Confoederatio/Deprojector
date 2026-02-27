@@ -1,8 +1,8 @@
 # 1. Project-related
 
 .idea
-_archives
-_archives
+archives
+archives
 
 # DEFAULT .py.gitignore
 # Byte-compiled / optimized / DLL files
