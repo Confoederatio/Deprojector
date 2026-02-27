@@ -1,6 +1,7 @@
 # 1. Project-related
 
 .idea
+_archives
 archives
 
 # DEFAULT .py.gitignore
